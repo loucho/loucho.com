@@ -1,2 +1,2 @@
 # loucho.com
-personal web page
+Code for the web page on loucho.com
